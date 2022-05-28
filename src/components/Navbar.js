@@ -4,7 +4,10 @@ import React from 'react';
 // We assign them to their own variable names
 function Navbar({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+
+    <div className= 'nav-back nav-text'>
+      <h1 className=" name color">Eric Hurst</h1>
+    <ul className="nav nav-tabs justify-content-end">
       <li className="nav-item">
         <a
           href="#about"
@@ -47,6 +50,7 @@ function Navbar({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </div>
   );
 }
 
