@@ -1,12 +1,13 @@
 import React from 'react';
 import self from '../../images/self.png';
+import "../../styles/About.css";
 
 
  function About() {
   return (
     <div className='about'>
       <h1>About Page</h1>
-      <img src= {self} classname= 'center' />
+      <img src= {self} className= 'myself' />
       <p>
        My name is Eric Hurst, I am a new software Engineer from Los Angeles Californina. I 
        first stared my Career in the United States Marines in 1995 as a heavy equipment operator. 

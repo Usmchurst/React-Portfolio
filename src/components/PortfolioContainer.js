@@ -5,6 +5,7 @@ import About from './pages/About';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
 import Footer from './Footer';
+import '../styles/About.css'
 
   function Body(){
   const [currentPage, setCurrentPage] = useState('About');
