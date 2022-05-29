@@ -10,3 +10,5 @@ has all materials needed to showcase the projects I took part in developing in a
 
 
 # Repository link
+
+https://github.com/Usmchurst/React-Portfolio

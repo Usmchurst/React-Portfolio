@@ -28,7 +28,7 @@ export default function Projects() {
         <div classname ='Techblog'>
         <p>Tech blog is a website for people with technical knowledge can exchange information about their sector of work.
         </p>
-        <a href="https://github.com/Usmchurst/The-Tech-Blog" ><img src={Techblog} alt='Techblog'/></a>
+        <a href="https://github.com/Usmchurst/The-Tech-Blog" ><img src={Techblog} alt='Techblog'/>"https://hitechnical-blog.herokuapp.com/"</a>
         </div>
 
         <div classname ='Text'>
