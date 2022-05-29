@@ -3,7 +3,7 @@ function Resume() {
 // export default function Resume() {
   return (
     <div>
-      <h3>Resume</h3>
+      <h1 className="nav nav-item justify-content-center" >Resume</h1>
       <div>
         <img alt="Eric's Resume" src={Erics} /> 
 

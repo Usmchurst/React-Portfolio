@@ -6,9 +6,10 @@ function Navbar({ currentPage, handlePageChange }) {
   return (
 
     <div className= 'nav-back nav-text'>
-      <h1 className=" name color">Eric Hurst</h1>
-    <ul className="nav nav-tabs justify-content-end">
-      <li className="nav-item">
+      <h1 className="nav nav-item justify-content-center ">Eric Hurst</h1>
+      
+    <ul className="nav nav-tabs justify-content-center">
+      <li className="navbar">
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
@@ -19,7 +20,7 @@ function Navbar({ currentPage, handlePageChange }) {
           About
         </a>
       </li>
-      <li className="nav-item">
+      <li className="navbar">
         <a
           href="#projects"
           onClick={() => handlePageChange('Projects')}
@@ -29,7 +30,7 @@ function Navbar({ currentPage, handlePageChange }) {
           Projects
         </a>
       </li>
-      <li className="nav-item">
+      <li className="navbar">
         <a
           href="#resume"
           onClick={() => handlePageChange('Resume')}
@@ -39,7 +40,7 @@ function Navbar({ currentPage, handlePageChange }) {
           Resume
         </a>
       </li>
-      <li className="nav-item">
+      <li className="navbar">
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}

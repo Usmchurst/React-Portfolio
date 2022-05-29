@@ -1,13 +1,21 @@
-.header {
-    background: #b71775;
+.about {
+    background: #ffffff;
     height: 200px;
   }
 
-  .header h1 {
+  .about h1 {
     margin: 0;
     padding-top: 75px;
     text-align: center;
-    color: white;
-    font-size: 3rem;
+    color: rgb(1, 1, 1);
+    font-size: 2rem;
   }
+
+  .myself {
+
+    margin: 0;
+    padding-top: 95px;
+    text-align: center;
+  }
+  
   
