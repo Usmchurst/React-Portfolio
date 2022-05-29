@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer(){
     return (
-       <footer ClassName='mt-3'>
+       <footer className='mt-3'>
         <ul>
             <li>GitHub:{""} 
             <a href="https://www.github.com/Usmchurst" className=""> Usmchurst</a> 
