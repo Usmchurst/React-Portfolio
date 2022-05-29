@@ -15,7 +15,8 @@ export default function Projects() {
       <div classname ='meal'>
         <p>Meal planner is a application that we can use to plan meals for 
           dinner dates or just for dinner base on your diet preference</p>
-        <a href="https://github.com/noahneville/Meal-Planner" ><img src={Meal} alt='Meal planner'/></a>
+        <a href="https://github.com/noahneville/Meal-Planner" ><img src={Meal} alt='Meal planner'/>"https://noahneville.github.io/Meal-Planner/"</a>
+        
       </div>
       <div classname ='Employed'>
         <p>Employed is a app that allows job seekers and employers to look for one another in their local area or 
@@ -33,7 +34,7 @@ export default function Projects() {
         <div classname ='Text'>
         <p>Text editor is a app that you can use to store notes and messages. 
         </p>
-        <a href="https://github.com/Usmchurst/Text-editor" ><img src={Text} alt='Text-editor'/></a>
+        <a href="https://github.com/Usmchurst/Text-editor" ><img src={Text} alt='Text-editor'/>"https://text-editor23.herokuapp.com/"</a>
         </div>
 
         
