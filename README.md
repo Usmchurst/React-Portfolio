@@ -7,7 +7,7 @@ has all materials needed to showcase the projects I took part in developing in a
 
 # Deployment link 
 
-
+https://usmchurst.github.io/React-Portfolio/
 
 # Repository link
 
